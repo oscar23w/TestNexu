@@ -27,6 +27,11 @@ Ademas de ese problema hubo otro en algunos momentos donde no definia bien algun
 ## Notas
 Tengo que mencionar que si bien yo escribi el código, y gran parte de el son cosas que ya sabia hacer, tambien durante el desarrollo llegue a hacer consultas en internet para aclarar algo que no recordaba bien o buscar algun metodo que me funcionara para algo en especifico.
 
+## Probar backend desde la web
+**URL:** https://testnexu.onrender.com/
+> **Nota:** El Backend se encuentra alojado en un servicio gratuito de render.com, por esta razon se apaga despues de un periodo de inactividad, es por esto que al hacer la primera peticion puede llegar a tardar unos minutos en responder, despues de esta primera llamada el resto de peticiones que se hagan se responderan rapidamente.
+
+
 ## Requisitos Previos
 
 Para ejecutar este proyecto, solo necesitas tener instalado:
