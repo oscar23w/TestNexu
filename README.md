@@ -71,7 +71,7 @@ El proyecto incluye pruebas unitarias y de integración utilizando JUnit 5 y Dat
 Esto compilará el proyecto y ejecutará todos los tests definidos, mostrando un reporte final en la consola indicando si los tests pasaron (BUILD SUCCESS).
 
 ### Tecnologías Utilizadas
-* **Java 17**: Lenguaje principal.
+* **Java 21**: Lenguaje principal.
 * **Spring Boot 3.4.1**: Framework web.
 * **Spring Data JPA**: Persistencia de datos.
 * **H2 Database**: Base de datos en memoria (para desarrollo/test).
