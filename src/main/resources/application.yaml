@@ -1,3 +1,5 @@
 spring:
   application:
     name: TestNexu
+server:
+  port: ${PORT:8080}
